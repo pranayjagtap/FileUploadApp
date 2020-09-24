@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="back_button">BACK</string>
+
+    <string-array name="gestureList">
+        <item>Select a gesture&#8230;</item>
+        <item>buy</item>
+        <item>house</item>
+        <item>fun</item>
+        <item>hope</item>
+        <item>arrive</item>
+        <item>really</item>
+        <item>read</item>
+        <item>lip</item>
+        <item>mouth</item>
+        <item>some</item>
+        <item>communicate</item>
+        <item>write</item>
+        <item>create</item>
+        <item>pretend</item>
+        <item>sister</item>
+        <item>man</item>
+        <item>one</item>
+        <item>drive</item>
+        <item>perfect</item>
+        <item>mother</item>
+    </string-array>
+</resources>
